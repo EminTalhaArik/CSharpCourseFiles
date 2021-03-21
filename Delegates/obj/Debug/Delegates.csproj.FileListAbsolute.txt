@@ -1,0 +1,7 @@
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\obj\Debug\Delegates.pdb
+C:\Users\maksa\source\repos\CsharpCourse\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache

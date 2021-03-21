@@ -1,0 +1,6 @@
+C:\Users\maksa\source\repos\CsharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\maksa\source\repos\CsharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\maksa\source\repos\CsharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\maksa\source\repos\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\maksa\source\repos\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\maksa\source\repos\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb

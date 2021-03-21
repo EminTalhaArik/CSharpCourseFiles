@@ -1,0 +1,7 @@
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\bin\Debug\Reflection.exe
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\bin\Debug\Reflection.pdb
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\obj\Debug\Reflection.exe
+C:\Users\maksa\source\repos\CsharpCourse\Reflection\obj\Debug\Reflection.pdb

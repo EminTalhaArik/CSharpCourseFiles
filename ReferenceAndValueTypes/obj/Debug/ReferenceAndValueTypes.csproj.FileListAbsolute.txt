@@ -1,0 +1,7 @@
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csprojAssemblyReference.cache
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+C:\Users\maksa\source\repos\CsharpCourse\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb

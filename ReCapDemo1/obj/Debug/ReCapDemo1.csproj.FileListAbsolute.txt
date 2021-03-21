@@ -1,0 +1,10 @@
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\bin\Debug\ReCapDemo1.exe.config
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\bin\Debug\ReCapDemo1.exe
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\bin\Debug\ReCapDemo1.pdb
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.csprojAssemblyReference.cache
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.Form1.resources
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.Properties.Resources.resources
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.csproj.GenerateResource.cache
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.exe
+C:\Users\maksa\source\repos\CsharpCourse\ReCapDemo1\obj\Debug\ReCapDemo1.pdb

@@ -1,0 +1,7 @@
+C:\Users\maksa\source\repos\CsharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\maksa\source\repos\CsharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\maksa\source\repos\CsharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\maksa\source\repos\CsharpCourse\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\maksa\source\repos\CsharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\maksa\source\repos\CsharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\maksa\source\repos\CsharpCourse\Loops\obj\Debug\Loops.pdb
